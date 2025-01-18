@@ -32,7 +32,7 @@ function Main() {
             </div>
 
            
-            <div classNam="row btn-container my-btn">
+            <div className="row btn-container my-btn">
                 <div className="col-6 mb-2 text-end btn-div">
                    
                     <button className="btn btn-mobile-full btn-main btn-one">
@@ -40,7 +40,7 @@ function Main() {
                     </button>
                 </div>
                 <div className="col-6 mb-2 btn-div">
-                  
+                   
                     <button className="btn btn-mobile-full btn-main btn-two">Sign up</button>
                 </div>
             </div>
